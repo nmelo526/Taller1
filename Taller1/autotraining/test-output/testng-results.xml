@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2020-03-30T02:22:42Z" finished-at="2020-03-30T02:22:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2020-03-30T02:22:42Z" finished-at="2020-03-30T02:22:42Z">
+      <class name="com.globant.tests.taller1.Taller1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.globant.tests.taller1.Taller1@212bf671]" name="beforeClass" is-config="true" duration-ms="12" started-at="2020-03-29T21:22:42Z" finished-at="2020-03-29T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.globant.tests.taller1.Taller1@212bf671]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-03-29T21:22:42Z" finished-at="2020-03-29T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.globant.tests.taller1.Taller1@212bf671]" name="test1" duration-ms="8" started-at="2020-03-29T21:22:42Z" finished-at="2020-03-29T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.globant.tests.taller1.Taller1@212bf671]" name="afterMethod" is-config="true" duration-ms="3" started-at="2020-03-29T21:22:42Z" finished-at="2020-03-29T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.globant.tests.taller1.Taller1@212bf671]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-03-29T21:22:42Z" finished-at="2020-03-29T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.globant.tests.taller1.Taller1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
